@@ -1,5 +1,9 @@
 # Vertex DebSpar AI v3.0 - Interactive Demo
 
+🚀 **[LIVE DEMO on Hugging Face Spaces](https://huggingface.co/spaces/Brian95240/vertex-debspar-ai-v3-demo)** 🚀
+
+This document provides a detailed breakdown of the system features showcased in the live demo.
+
 **Status:** Live Demo Available  
 **Version:** 3.0.0  
 **Last Updated:** December 24, 2025

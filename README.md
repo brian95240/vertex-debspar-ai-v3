@@ -28,7 +28,9 @@ Vertex DebSpar AI v3.0 is a sophisticated hybrid debate system that combines loc
 
 ## Interactive Demo
 
-🎮 **[Try the Interactive Demo](demo/INTERACTIVE_DEMO.md)** - Experience Vertex DebSpar AI v3.0 in action with a simulated debate session!
+🚀 **[LIVE DEMO on Hugging Face Spaces](https://huggingface.co/spaces/Brian95240/vertex-debspar-ai-v3-demo)** 🚀
+
+Experience a live, interactive demo of the Vertex DebSpar AI v3.0 system. No installation required!
 
 The demo showcases:
 - Real-time pressure detection (0-10 scale)
