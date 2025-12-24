@@ -1,0 +1,42 @@
+(Crucial: This runs the logic and holds the keys)
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: orchestrator-hot
+  namespace: debate-vertex
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: orchestrator
+  template:
+    metadata:
+      labels:
+        app: orchestrator
+    spec:
+      containers:
+      - name: backend
+        image: debate-vertex-backend:latest
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 8000
+        env:
+        - name: APEX_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: apex-secret
+              key: groq_key
+        - name: VLLM_ENDPOINT
+          value: "http://vllm-warm:8000/v1/chat/completions"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: orchestrator-hot
+  namespace: debate-vertex
+spec:
+  selector:
+    app: orchestrator
+  ports:
+  - port: 80
+    targetPort: 8000

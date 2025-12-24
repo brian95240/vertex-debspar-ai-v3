@@ -1,0 +1,16 @@
+apiVersion: keda.sh/v1alpha1
+kind: ScaledObject
+metadata:
+  name: vllm-warm-scaledobject
+  namespace: debate-vertex
+spec:
+  scaleTargetRef:
+    name: vllm-warm
+  minReplicaCount: 1
+  maxReplicaCount: 2
+  triggers:
+  - type: prometheus
+    metadata:
+      serverAddress: http://prometheus-service:9090
+      query: max(debate_pressure_score)
+      threshold: "8"
