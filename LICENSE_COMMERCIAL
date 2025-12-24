@@ -1,0 +1,268 @@
+# Vertex DebSpar AI v3.0 - Commercial License Agreement
+
+**Version 1.0**  
+**Effective Date:** December 24, 2025
+
+---
+
+## 1. INTRODUCTION
+
+This Commercial License Agreement ("Agreement") is entered into between Vertex DebSpar AI Contributors ("Licensor") and the purchasing entity ("Licensee").
+
+This Agreement grants Licensee the right to use Vertex DebSpar AI v3.0 ("Software") under the terms and conditions specified herein, in addition to or as an alternative to the GPLv3 open-source license.
+
+---
+
+## 2. DEFINITIONS
+
+**"Software"** means Vertex DebSpar AI v3.0, including all source code, documentation, and associated materials.
+
+**"Commercial Use"** means any use of the Software for commercial purposes, including but not limited to:
+- Providing the Software as a service (SaaS)
+- Incorporating the Software into proprietary products
+- Using the Software for commercial data generation or analysis
+- Licensing the Software to third parties
+- Using the Software in closed-source applications
+
+**"Licensee"** means the individual or organization purchasing this Commercial License.
+
+**"Confidential Information"** means any non-public information about the Software's implementation, performance, or capabilities.
+
+---
+
+## 3. GRANT OF LICENSE
+
+Subject to the terms and conditions of this Agreement, Licensor grants Licensee a non-exclusive, non-transferable, worldwide license to:
+
+3.1 Use the Software for Commercial Use without the requirements of GPLv3 (including the requirement to open-source modifications)
+
+3.2 Modify the Software for internal commercial purposes
+
+3.3 Deploy the Software in production environments
+
+3.4 Use the Software in proprietary and closed-source applications
+
+3.5 Integrate the Software with third-party commercial software
+
+---
+
+## 4. LICENSE RESTRICTIONS
+
+Licensee may NOT:
+
+4.1 Sublicense, sell, rent, lease, transfer, assign, or otherwise dispose of the Software without prior written consent from Licensor
+
+4.2 Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software (except as permitted by applicable law)
+
+4.3 Remove or alter any proprietary notices, labels, or marks on the Software
+
+4.4 Use the Software to develop competing products or services
+
+4.5 Use the Software in violation of applicable laws or regulations
+
+4.6 Share the Software or this license with unlicensed third parties
+
+---
+
+## 5. COMMERCIAL LICENSE TIERS
+
+### Tier 1: Startup License
+- **Price:** $2,999/year
+- **Users:** Up to 5 developers
+- **Deployment:** Single production environment
+- **Support:** Email support (24-hour response time)
+- **Updates:** All updates and security patches included
+- **Use Cases:** SaaS applications, internal tools, small-scale commercial deployment
+
+### Tier 2: Business License
+- **Price:** $9,999/year
+- **Users:** Up to 25 developers
+- **Deployment:** Up to 3 production environments
+- **Support:** Priority email and phone support (4-hour response time)
+- **Updates:** All updates and security patches included
+- **Custom Training:** 8 hours of training included
+- **Use Cases:** Medium-scale commercial deployment, multiple product lines
+
+### Tier 3: Enterprise License
+- **Price:** Custom (starting at $29,999/year)
+- **Users:** Unlimited developers
+- **Deployment:** Unlimited production environments
+- **Support:** Dedicated account manager, 24/7 phone support (1-hour response time)
+- **Updates:** All updates, security patches, and priority bug fixes
+- **Custom Development:** Up to 40 hours of custom development included
+- **Training:** Unlimited training and onboarding
+- **Use Cases:** Large-scale commercial deployment, mission-critical applications
+
+---
+
+## 6. PAYMENT TERMS
+
+6.1 **Invoicing:** Licensor will issue an invoice upon execution of this Agreement
+
+6.2 **Payment:** Licensee must pay the full license fee within 30 days of invoice date
+
+6.3 **Renewal:** Commercial licenses renew annually unless cancelled in writing 30 days before expiration
+
+6.4 **Late Payment:** Overdue payments accrue interest at 1.5% per month or the maximum rate permitted by law
+
+6.5 **Taxes:** Licensee is responsible for all applicable taxes, duties, and governmental fees
+
+---
+
+## 7. PROPRIETARY RIGHTS
+
+7.1 Licensor retains all right, title, and interest in the Software, including all intellectual property rights
+
+7.2 Licensee retains ownership of any modifications made to the Software under this Commercial License
+
+7.3 Licensee grants Licensor a non-exclusive license to use any feedback, suggestions, or improvements provided by Licensee
+
+---
+
+## 8. CONFIDENTIALITY
+
+8.1 Licensee agrees to maintain the confidentiality of the Software and any Confidential Information
+
+8.2 Licensee may disclose the Software only to employees and contractors who have a need to know and are bound by confidentiality obligations
+
+8.3 Confidentiality obligations do not apply to information that is publicly available or independently developed
+
+---
+
+## 9. WARRANTY DISCLAIMER
+
+**THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.**
+
+Licensor does not warrant that the Software will meet Licensee's requirements or that the Software will operate uninterrupted or error-free.
+
+---
+
+## 10. LIMITATION OF LIABILITY
+
+**IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR BUSINESS INTERRUPTION, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**
+
+Licensor's total liability under this Agreement shall not exceed the amount paid by Licensee for the Commercial License in the 12 months preceding the claim.
+
+---
+
+## 11. INDEMNIFICATION
+
+11.1 Licensor will defend, indemnify, and hold harmless Licensee from any third-party claims that the Software infringes any patent, copyright, or trademark rights
+
+11.2 This indemnification does not apply to claims arising from Licensee's modifications, misuse, or combination of the Software with other products
+
+---
+
+## 12. TERMINATION
+
+12.1 **Termination for Cause:** Licensor may terminate this Agreement immediately if Licensee breaches any material term and fails to cure within 30 days of written notice
+
+12.2 **Termination for Convenience:** Either party may terminate this Agreement with 90 days' written notice
+
+12.3 **Effect of Termination:** Upon termination, Licensee must cease all use of the Software and destroy all copies in its possession
+
+12.4 **Survival:** Sections 7 (Proprietary Rights), 8 (Confidentiality), 9 (Warranty Disclaimer), 10 (Limitation of Liability), and 11 (Indemnification) survive termination
+
+---
+
+## 13. COMPLIANCE AND AUDIT
+
+13.1 Licensee agrees to comply with all applicable laws and regulations in its use of the Software
+
+13.2 Licensor reserves the right to audit Licensee's use of the Software upon 30 days' written notice, no more than once per year
+
+13.3 If an audit reveals unlicensed use, Licensee must pay for the additional licenses plus 20% penalty
+
+---
+
+## 14. SUPPORT AND MAINTENANCE
+
+14.1 Licensor provides support according to the selected license tier
+
+14.2 Support includes assistance with installation, configuration, and troubleshooting
+
+14.3 Licensor will provide security updates and bug fixes within 30 days of discovery
+
+14.4 Licensor does not provide support for modifications made by Licensee
+
+---
+
+## 15. UPGRADES AND UPDATES
+
+15.1 Licensor may release updates and new versions of the Software
+
+15.2 Licensee is entitled to all updates and upgrades included in the selected license tier
+
+15.3 Licensor may discontinue support for older versions 12 months after a new version is released
+
+---
+
+## 16. DATA PRIVACY
+
+16.1 Licensor does not collect or store any data generated by the Software
+
+16.2 Licensee is responsible for all data privacy and security compliance related to its use of the Software
+
+16.3 Licensee must comply with all applicable data protection regulations (GDPR, CCPA, etc.)
+
+---
+
+## 17. GENERAL PROVISIONS
+
+17.1 **Entire Agreement:** This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations and agreements
+
+17.2 **Amendments:** This Agreement may only be amended in writing signed by both parties
+
+17.3 **Governing Law:** This Agreement is governed by and construed in accordance with the laws of the jurisdiction where Licensor is located
+
+17.4 **Dispute Resolution:** Any disputes arising from this Agreement shall be resolved through binding arbitration
+
+17.5 **Severability:** If any provision is found to be invalid or unenforceable, the remaining provisions shall continue in full force
+
+17.6 **Waiver:** No waiver of any provision shall be effective unless in writing signed by the waiving party
+
+---
+
+## 18. CONTACT INFORMATION
+
+For inquiries about Commercial Licenses, please contact:
+
+**Vertex DebSpar AI - Licensing**  
+Email: licensing@vertex-debspar.ai  
+Website: https://vertex-debspar.ai/licensing  
+Support: https://support.vertex-debspar.ai
+
+---
+
+## 19. ACCEPTANCE
+
+By purchasing and using this Commercial License, Licensee acknowledges that it has read, understood, and agrees to be bound by all terms and conditions of this Agreement.
+
+---
+
+**Licensor:** Vertex DebSpar AI Contributors  
+**Effective Date:** December 24, 2025  
+**License Version:** 1.0  
+**Software Version:** 3.0.0
+
+---
+
+## APPENDIX A: LICENSE COMPARISON
+
+| Feature | GPLv3 (Free) | Commercial License |
+|---------|-------------|-------------------|
+| Source Code Access | ✓ Required | ✓ Included |
+| Modifications | ✓ Must Share | ✓ Proprietary |
+| Commercial Use | ✓ Must Open-Source | ✓ Closed-Source |
+| Sublicensing | ✗ Not Allowed | ✓ Available (Tier 3+) |
+| Support | ✗ Community Only | ✓ Professional Support |
+| SaaS Deployment | ✗ Must Share Code | ✓ Allowed |
+| Proprietary Products | ✗ Must Open-Source | ✓ Allowed |
+| Warranty | ✗ None | ✓ Limited |
+| Indemnification | ✗ None | ✓ Included |
+| Updates | ✓ Free | ✓ Included |
+| Price | Free | $2,999 - Custom |
+
+---
+
+**End of Commercial License Agreement**
